@@ -1,0 +1,51 @@
+book_id,title,author_id,author_name,genre,publish_date,sale_id,sale_date,quantity,price
+book_1,The Catcher in the Rye,author_1,J.D. Salinger,Fiction,1951-07-16,sale_1,2023-01-01,10,15.99
+book_2,To Kill a Mockingbird,author_2,Harper Lee,Fiction,1960-07-11,sale_2,2023-01-02,15,12.49
+book_3,1984,author_3,George Orwell,Science Fiction,1949-06-08,sale_3,2023-01-03,20,10.99
+book_4,Pride and Prejudice,author_4,Jane Austen,Romance,1813-01-28,sale_4,2023-01-04,12,18.75
+book_5,The Great Gatsby,author_5,F. Scott Fitzgerald,Fiction,1925-04-10,sale_5,2023-01-05,18,14.95
+book_6,Moby Dick,author_6,Herman Melville,Adventure,1851-10-18,sale_6,2023-01-06,25,16.50
+book_7,The Lord of the Rings,author_7,J.R.R. Tolkien,Fantasy,1954-07-29,sale_7,2023-01-07,30,20.25
+book_8,Harry Potter and the Philosopher's Stone,author_8,J.K. Rowling,Fantasy,1997-06-26,sale_8,2023-01-08,22,19.99
+book_9,Brave New World,author_9,Aldous Huxley,Dystopian Fiction,1932-01-01,sale_9,2023-01-09,16,13.50
+book_10,The Hobbit,author_7,J.R.R. Tolkien,Fantasy,1937-09-21,sale_10,2023-01-10,10,17.99
+book_1,The Catcher in the Rye,author_1,J.D. Salinger,Fiction,1951-07-16,sale_11,2023-01-02,12,15.99
+book_2,To Kill a Mockingbird,author_2,Harper Lee,Fiction,1960-07-11,sale_12,2023-01-03,17,12.49
+book_3,1984,author_3,George Orwell,Science Fiction,1949-06-08,sale_13,2023-01-04,22,10.99
+book_4,Pride and Prejudice,author_4,Jane Austen,Romance,1813-01-28,sale_14,2023-01-05,14,18.75
+book_5,The Great Gatsby,author_5,F. Scott Fitzgerald,Fiction,1925-04-10,sale_15,2023-01-06,20,14.95
+book_6,Moby Dick,author_6,Herman Melville,Adventure,1851-10-18,sale_16,2023-01-07,27,16.50
+book_7,The Lord of the Rings,author_7,J.R.R. Tolkien,Fantasy,1954-07-29,sale_17,2023-01-08,32,20.25
+book_8,Harry Potter and the Philosopher's Stone,author_8,J.K. Rowling,Fantasy,1997-06-26,sale_18,2023-01-09,24,19.99
+book_9,Brave New World,author_9,Aldous Huxley,Dystopian Fiction,1932-01-01,sale_19,2023-01-10,18,13.50
+book_10,The Hobbit,author_7,J.R.R. Tolkien,Fantasy,1937-09-21,sale_20,2023-01-11,12,17.99
+book_1,The Catcher in the Rye,author_1,J.D. Salinger,Fiction,1951-07-16,sale_21,2023-01-03,15,15.99
+book_2,To Kill a Mockingbird,author_2,Harper Lee,Fiction,1960-07-11,sale_22,2023-01-04,20,12.49
+book_3,1984,author_3,George Orwell,Science Fiction,1949-06-08,sale_23,2023-01-05,25,10.99
+book_4,Pride and Prejudice,author_4,Jane Austen,Romance,1813-01-28,sale_24,2023-01-06,17,18.75
+book_5,The Great Gatsby,author_5,F. Scott Fitzgerald,Fiction,1925-04-10,sale_25,2023-01-07,23,14.95
+book_6,Moby Dick,author_6,Herman Melville,Adventure,1851-10-18,sale_26,2023-01-08,30,16.50
+book_7,The Lord of the Rings,author_7,J.R.R. Tolkien,Fantasy,1954-07-29,sale_27,2023-01-09,35,20.25
+book_8,Harry Potter and the Philosopher's Stone,author_8,J.K. Rowling,Fantasy,1997-06-26,sale_28,2023-01-10,27,19.99
+book_9,Brave New World,author_9,Aldous Huxley,Dystopian Fiction,1932-01-01,sale_29,2023-01-11,21,13.50
+book_10,The Hobbit,author_7,J.R.R. Tolkien,Fantasy,1937-09-21,sale_30,2023-01-12,15,17.99
+book_1,The Catcher in the Rye,author_1,J.D. Salinger,Fiction,1951-07-16,sale_31,2023-02-03,15,15.99
+book_2,To Kill a Mockingbird,author_2,Harper Lee,Fiction,1960-07-11,sale_32,2023-02-04,20,12.49
+book_3,1984,author_3,George Orwell,Science Fiction,1949-06-08,sale_33,2023-02-05,25,10.99
+book_4,Pride and Prejudice,author_4,Jane Austen,Romance,1813-01-28,sale_34,2023-02-06,17,18.75
+book_5,The Great Gatsby,author_5,F. Scott Fitzgerald,Fiction,1925-04-10,sale_35,2023-02-07,23,14.95
+book_6,Moby Dick,author_6,Herman Melville,Adventure,1851-10-18,sale_36,2023-02-08,30,16.50
+book_7,The Lord of the Rings,author_7,J.R.R. Tolkien,Fantasy,1954-07-29,sale_37,2023-02-09,35,20.25
+book_8,Harry Potter and the Philosopher's Stone,author_8,J.K. Rowling,Fantasy,1997-06-26,sale_38,2023-02-10,27,19.99
+book_9,Brave New World,author_9,Aldous Huxley,Dystopian Fiction,1932-01-01,sale_39,2023-02-11,21,13.50
+book_10,The Hobbit,author_7,J.R.R. Tolkien,Fantasy,1937-09-21,sale_40,2023-02-12,15,17.99
+book_1,The Catcher in the Rye,author_1,J.D. Salinger,Fiction,1951-07-16,sale_41,2023-02-05,10,15.99
+book_2,To Kill a Mockingbird,author_2,Harper Lee,Fiction,1960-07-11,sale_42,2023-02-06,9,12.49
+book_3,1984,author_3,George Orwell,Science Fiction,1949-06-08,sale_43,2023-02-07,8,10.99
+book_4,Pride and Prejudice,author_4,Jane Austen,Romance,1813-01-28,sale_44,2023-02-08,7,18.75
+book_5,The Great Gatsby,author_5,F. Scott Fitzgerald,Fiction,1925-04-10,sale_45,2023-02-09,6,14.95
+book_6,Moby Dick,author_6,Herman Melville,Adventure,1851-10-18,sale_46,2023-02-10,5,16.50
+book_7,The Lord of the Rings,author_7,J.R.R. Tolkien,Fantasy,1954-07-29,sale_47,2023-02-11,4,20.25
+book_8,Harry Potter and the Philosopher's Stone,author_8,J.K. Rowling,Fantasy,1997-06-26,sale_48,2023-02-12,3,19.99
+book_9,Brave New World,author_9,Aldous Huxley,Dystopian Fiction,1932-01-01,sale_49,2023-02-13,2,13.50
+book_10,The Hobbit,author_7,J.R.R. Tolkien,Fantasy,1937-09-21,sale_50,2023-02-14,11,17.99

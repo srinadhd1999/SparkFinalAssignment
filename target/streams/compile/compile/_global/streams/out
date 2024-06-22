@@ -1,0 +1,9 @@
+[0m[[0m[31merror[0m] [0m[0m/private/var/folders/1d/_0pnt2994vg5xvvvj4fk41qr0000gp/T/sparkfinalassignment/src/main/scala/SparkOptional2.scala:33:10: overloaded method value option with alternatives:[0m
+[0m[[0m[31merror[0m] [0m[0m  (key: String,value: Double)org.apache.spark.sql.DataFrameWriter[org.apache.spark.sql.Row] <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (key: String,value: Long)org.apache.spark.sql.DataFrameWriter[org.apache.spark.sql.Row] <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (key: String,value: Boolean)org.apache.spark.sql.DataFrameWriter[org.apache.spark.sql.Row] <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (key: String,value: String)org.apache.spark.sql.DataFrameWriter[org.apache.spark.sql.Row][0m
+[0m[[0m[31merror[0m] [0m[0m cannot be applied to (String, Option[String])[0m
+[0m[[0m[31merror[0m] [0m[0m        .option("dbtable", sys.env.get("DB_USER"))[0m
+[0m[[0m[31merror[0m] [0m[0m         ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
